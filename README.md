@@ -102,13 +102,8 @@ Javascript Developer
    </tr>
    <tr>
       <td colspan=2 align="center">
-         <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=iwebwolverine&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Viktor Svertoka GitHub Readme Streak Stats" /> </a>
+         <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=iwebwolverine&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Daniil GitHub Readme Streak Stats" /> </a>
       </td>
    </tr>
 </table>
 <br>
-
-<div align="center">
-<a href="https://u8views.com/github/iwebwolverine"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
-
