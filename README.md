@@ -1,13 +1,17 @@
 <div id="header" align="center">
-   <img src="./assets/github.gif" width="100"/>
-   <h1>
-      Hey there, I'm Daniil!
-      <img src="./assets/giphy.gif" width="30px" alt="GIF">
-   </h1>
+<img src="./assets/github.gif" width="100"/>
+<h1>
+Hey there, I'm Daniil!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
 </div>
+
 ### About Me :
+
 Javascript Developer
+
 ### Languages :
+
 <div style="display: flex; align-items: flex-start; align: center">
    <table  align="center">
       <tr>
