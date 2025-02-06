@@ -19,7 +19,9 @@ Javascript Developer
       </tr>
    </table>
 </div>
+
 ### My stack and tools :
+
 <div style="display: flex; align-items: flex-start; align: center">
    <table align="center">
       <tr>
@@ -86,11 +88,13 @@ Javascript Developer
       </td>
    </table>
 </div>
+
 ### GitHub Stats :
+
 <table align="center">
    <tr>
       <td>
-         <a href="https://github.com/iwebwolverine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iwebwolverine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Viktor Svertoka github stats" /></a>
+         <a href="https://github.com/iwebwolverine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iwebwolverine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Github stats" /></a>
       </td>
       <td>
          <a href="https://github.com/iwebwolverine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwebwolverine&layout=compact&theme=buefy&hide_border=true" /></a>
@@ -103,11 +107,8 @@ Javascript Developer
    </tr>
 </table>
 <br>
+
 <div align="center">
-   <a href="https://u8views.com/github/iwebwolverine"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
+<a href="https://u8views.com/github/iwebwolverine"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
 </div>
-<br>
-<div align="center">
-   <a href="https://www.codewars.com/users/iwebwolverine"><img src="https://www.codewars.com/users/iwebwolverine/badges/small">
-</div>
-<br>
+
